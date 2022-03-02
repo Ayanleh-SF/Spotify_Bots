@@ -37,4 +37,4 @@ def change(music_name):
 	app.top_window().minimize()
 
 
-change("runaway")
+change("runaway") # Entrer le nom de la musique souhaitée
